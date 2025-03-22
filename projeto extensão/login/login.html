@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário Responsivo</title>
+    <link rel="stylesheet" href="styles.css">
+
+    <style>
+        .mostrar-senha {
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            position: absolute;
+            margin-left: -40px;
+            margin-top: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <form id="formulario">
+            <div class="form-group">
+                <label for="email" >Email</label>
+                <input type="email" class="form-control" id="email" placeholder="Insira seu e-mail aqui" required maxlength="21" />
+            </div>
+            <div class="form-group">
+                <label for="senha">Senha</label>
+                <div style="position: relative;">
+                    <input type="password" class="form-control" id="senha"  placeholder="Insira sua senha aqui" required maxlength="6"/>
+                    <div class="mostrar-senha" onclick="toggleSenha()">
+                        <img src="eye-icon.png" height="30px" alt="Mostrar Senha" title="Mostrar Senha" id="show-pass">
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Enviar</button>
+            <button type="button" class="btn btn-success">Próximo</button>
+        </form>
+    </div>
+
+    <script src="botoes.js"></script>
+</body>
+<img src="charcter person.png"  width="450" height="600" id="character-person">
+</html>
