@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #0c0f39;
+    padding: 20px;
+}
+
+.container-fluid {
+    max-width: 1200px;
+    margin: auto;
+}
+
+/* Navbar */
+.nav {
+    background-color: #f18a04c4;
+    padding: 10px;
+    border-radius: 5px;
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+
+.nav .nav-item .nav-link {
+    color: #0c0f39;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.nav .nav-item .nav-link:hover {
+    text-decoration: underline;
+}
+
+.nav .nav-item .disabled {
+    color: #0c0f39;
+}
+
+/* Títulos e textos */
+h2 {
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+p {
+    color: #ffffff;
+}
+
+/* Botões */
+.btn {
+    background-color: #f18a04c4;
+    color: #0c0f39;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn:hover {
+    background-color: rgb(247, 247, 247);
+}
+
+/* Cards */
+.card {
+    background-color: #d9d487;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 0px 4px 6px rgb(247, 247, 247);
+    text-align: center;
+    margin-top: 20px;
+}
+
+.card img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.card-title {
+    margin: 10px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: #0c0f39;
+}
+
+/* Grid Responsivo */
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.col-md-4 {
+    width: 100%;
+    max-width: 32%;
+}
+
+@media (max-width: 768px) {
+    .col-md-4 {
+        max-width: 100%;
+    }
+}
+
+/* Paginação */
+.pagination {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.pagination .page-item {
+    margin: 0 5px;
+}
+
+.pagination .page-link {
+    padding: 8px 12px;
+    background-color: #f18a04c4;
+    color: #0c0f39;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.pagination .page-link:hover {
+    background-color: #d9d487;
+}
+
+
