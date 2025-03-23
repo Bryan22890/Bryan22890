@@ -1,3 +1,9 @@
+function voltar(){
+    window.location.href = "../login/login.html";
+}
+
+
+
 document.addEventListener("DOMContentLoaded", function () {
     
     // Gera um UUID v4 seguro
