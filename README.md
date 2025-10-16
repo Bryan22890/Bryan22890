@@ -1,9 +1,9 @@
 #Olá sou o Bryan Caristiati costa 👋
 
-<br>🔭 Atualmente, estou trabalhando com front-end na Unissuam. Tenho experiência em design, principalmente no Adobe Photoshop e em modelagem 3D no Blender, além de estar cursando na Zion Caxias. Desejo também adquirir conhecimentos na área de programação, principalmente para me aperfeiçoar cada vez mais.<br/>
-<br>🌱 Estou estudando python,html,css,javascript,...<br/>
+<br>🔭 Atualmente, estou trabalhando com front-end na Unisuam. Tenho experiência em design, principalmente no Adobe Photoshop e em modelagem 3D no Blender, além de estar cursando na Zion Caxias. Desejo tambem adquirrir conhecimentos na área de programação, principalmente para me aperfeisoar cada vez mais.<br/>
+<br>🌱 Estou estudando python,html,css e javascript,...<br/>
 <br>📫 Contate-me no email:Bryan161101@gmail.com<br/>
-<br>😄 Pronouns: ele/dele<br/>
+<br>😄 Pronouns: elu/delu<br/>
 
 <div style="display: inline_block"><br> #Estou estudando
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
@@ -11,7 +11,7 @@
 </div>
 
 <div>
-<br><a href="https://instagram.com/@bryanccosta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-X23E4405F?style-for-the-badge&logo-instagram&logoColor-white"
+<br><a href="https://www.instagram.com/jairmessiasbolsonaro/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-X23E4405F?style-for-the-badge&logo-instagram&logoColor-white"
 target="_blank"></a><br/>
 <a href="https://discord.gg/bryan.c.costa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style-for-the-badge&logo-discord&logoColor-white" target="_blank"> </a>
 
