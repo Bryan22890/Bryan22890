@@ -3,7 +3,7 @@
 <br>🔭 Atualmente, estou trabalhando com front-end na Unisuam. Tenho experiência em design, principalmente no Adobe Photoshop e em modelagem 3D no Blender, além de estar cursando na Zion Caxias. Desejo tambem adquirrir conhecimentos na área de programação, principalmente para me aperfeisoar cada vez mais.<br/>
 <br>🌱 Estou estudando python,html,css e javascript,...<br/>
 <br>📫 Contate-me no email:Bryan161101@gmail.com<br/>
-<br>😄 Pronouns: elu/delu<br/>
+
 
 <div style="display: inline_block"><br> #Estou estudando
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
