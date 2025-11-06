@@ -1,0 +1,24 @@
+No terminal, dentro da pasta do seu projeto (C:\Users\bslab303C\FormadoraIII), rode:
+
+npx expo install expo@54.0.22
+
+
+Esse comando usa o gerenciador do Expo para garantir que a versão instalada é compatível com o SDK do seu projeto (diferente de npm install, que pode pegar versões erradas).
+
+
+2 Atualize o Expo e dependências principais
+
+Rode o comando abaixo (ele usa o gerenciador oficial do Expo, que ajusta tudo automaticamente):
+
+npx expo install --fix
+
+
+Esse comando:
+
+Atualiza o expo para a versão correta (54.0.22);
+
+Ajusta versões de react, react-native, react-dom, react-native-web, etc.;
+
+Garante compatibilidade com o SDK 54.
+
+💡 Caso ele não resolva tudo, prossiga com os comandos manuais abaixo.
