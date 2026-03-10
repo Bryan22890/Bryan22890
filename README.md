@@ -1,7 +1,7 @@
 #Olá sou o Bryan Caristiati costa 👋
 
-<br>🔭 Atualmente, estou trabalhando com front-end na Unisuam. Tenho experiência em design, principalmente no Adobe Photoshop e em modelagem 3D no Blender, além de estar cursando na Zion Caxias. Desejo tambem adquirrir conhecimentos na área de programação, principalmente para me aperfeisoar cada vez mais.<br/>
-<br>🌱 Estou estudando python,html,css e javascript,...<br/>
+<br>🔭 Atualmente, estou trabalhando com front-end e backend na Unisuam. Tenho experiência em design, principalmente no Adobe Photoshop e em modelagem 3D no Blender, além de ter terminado o curso na Zion Caxias. Desejo tambem adquirrir conhecimentos na área de programação, principalmente para me aperfeisoar cada vez mais.<br/>
+<br>🌱 tenho conhecimento em python,html,css e javascript,...<br/>
 <br>📫 Contate-me no email:Bryan161101@gmail.com<br/>
 
 
