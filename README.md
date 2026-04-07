@@ -1,8 +1,23 @@
-#Olá sou o Bryan Caristiati costa 👋
+# Olá! 👋
 
-<br>🔭 Atualmente, estou trabalhando com front-end e backend na Unisuam. Tenho experiência em design, principalmente no Adobe Photoshop ,edição de video como adobe premiere e clipchamp, em modelagem 3D no Blender, além de ter terminado o curso na Zion Caxias. Desejo tambem adquirrir conhecimentos na área de programação, principalmente para me aperfeisoar cada vez mais.<br/>
-<br>🌱 tenho conhecimento em python,html,css e javascript,...<br/>
-<br>📫 Contate-me no email:Bryan161101@gmail.com<br/>
+Sou um profissional multidisciplinar apaixonado por tecnologia e criatividade. Atualmente, trabalho com desenvolvimento **Front-end** e **Back-end** na Unisuam, buscando sempre unir o melhor da lógica de programação com um olhar apurado para o design.
+
+---
+
+### 💻 O que eu faço?
+Além de escrever código, tenho uma forte bagagem criativa e audiovisual. Sou formado pela **Zion Caxias** e adoro transformar ideias em projetos visuais e interativos.
+
+### 🛠️ Minhas Ferramentas e Habilidades
+- **Desenvolvimento:** Front-end e Back-end *(adicione aqui as linguagens que você usa, ex: JavaScript, Python, React, Node.js)*
+- **Design & Imagem:** Adobe Photoshop
+- **Edição de Vídeo:** Adobe Premiere e Clipchamp
+- **Modelagem 3D:** Blender
+
+### 🚀 Meus Objetivos
+Sou movido pelo aprendizado contínuo. Meu foco principal no momento é expandir e aprofundar meus conhecimentos na área de **programação**, para me aperfeiçoar cada vez mais como desenvolvedor e criar soluções completas.
+
+---
+*Sinta-se à vontade para explorar meus repositórios abaixo!*
 
 
 <div style="display: inline_block"><br> #Estou estudando
